@@ -15,7 +15,7 @@ SystemVerilog,
 VHDL,
 Verilog,
 Embedded C,
-MATLAB,
+MATLAB
 
 🛠 Tools & Platforms - 
 Git,
