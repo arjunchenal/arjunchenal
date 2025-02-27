@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m Arjun 
-🎓 Currently pursuing a Master's in Communication and Information Technology. 
-
-🤖 Passionate about Robotics and Machine Learning 
+🎓 Currently pursuing a Master's in Communication and Information Technology.
 
 💻 3 years of professional experience as a Software Developer 
+
+🔬 Currently exploring the semiconductor field, focusing on processor design and system-on-chip (SoC) development.
 
 🚀 Always exploring new tech and building innovative solutions
 
